@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 1ac15748-be04-f7b0-d210-91c05686f9f9
 ---
@@ -25,7 +27,7 @@ This quiz is to test your knowledge of, and examine your intuitions about, three
     *   A priori/A posteriori
     *   Necessary/contingent
     *   Analytic/synthetic
-5.  Water is H2O
+5.  Water is H{{< sub "2" >}}O
     *   A priori/A posteriori
     *   Necessary/contingent
     *   Analytic/synthetic
