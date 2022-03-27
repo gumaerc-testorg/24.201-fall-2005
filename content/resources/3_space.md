@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f7038a8f-2b52-6de0-9b69-252d4e671a7f
 resourcetype: Document
 title: 3_space.pdf
 uid: 7e9bba2d-38f8-e698-9bd5-0e6857138d6d

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f7038a8f-2b52-6de0-9b69-252d4e671a7f
 resourcetype: Document
 title: 14_refutations.pdf
 uid: 7bb5ccfa-c859-7512-5b9b-61229fa83d03

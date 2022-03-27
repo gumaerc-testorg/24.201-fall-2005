@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f7038a8f-2b52-6de0-9b69-252d4e671a7f
 resourcetype: Document
 title: 18_humility.pdf
 uid: 793eb93a-0690-aeb4-3755-29bea7568799

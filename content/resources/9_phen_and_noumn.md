@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f7038a8f-2b52-6de0-9b69-252d4e671a7f
 resourcetype: Document
 title: 9_phen_and_noumn.pdf
 uid: e795da23-ecec-5f41-686f-fe6edbc3730d

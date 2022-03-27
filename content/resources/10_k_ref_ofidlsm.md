@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f7038a8f-2b52-6de0-9b69-252d4e671a7f
 resourcetype: Document
 title: 10_k_ref_ofidlsm.pdf
 uid: dd49c0ad-7b47-d797-3d2c-5775170832cf

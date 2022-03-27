@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f7038a8f-2b52-6de0-9b69-252d4e671a7f
 resourcetype: Document
 title: 11_thr_kant_thes.pdf
 uid: 3fcdb35a-7d8e-743b-c8ea-3e22fdb1191e
