@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/7bbbd32546bbb35d6165cd93d9ded113_11_phenomena.pdf
+file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/7bbbd32546bbb35d6165cd93d9ded113_11_phenomena.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

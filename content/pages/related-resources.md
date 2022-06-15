@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The related resources section discusses about advice from Jim Pryor regarding
+  philosophy essays and e-critique.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

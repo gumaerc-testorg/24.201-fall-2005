@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/91d9c44584c9032cbd0dc7654fefb094_15_idelsm_revis.pdf
+file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/91d9c44584c9032cbd0dc7654fefb094_15_idelsm_revis.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

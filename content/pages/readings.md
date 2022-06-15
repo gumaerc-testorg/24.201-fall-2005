@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The readings section discusses about main readings, readings by session
+  and additional readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
