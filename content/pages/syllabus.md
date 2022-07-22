@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section discusses about course requirements, assessment,
+  summary of deadlines, plagiarism and academic misconduct and calendar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 16e1b264-1a1b-f891-3803-eebc185ee9d2
 ---

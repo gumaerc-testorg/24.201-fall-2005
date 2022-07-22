@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The assignment section discusses about first essay topics, second essay
+  topics, drafts and short exercise.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 31e1c790-ede2-d3a2-da3b-061bbd490551
 ---
@@ -46,4 +51,4 @@ Same passage, different translation:
 Choosing one or the other of the above translations, write 2 pages providing an analysis of the passage. See if you can find a way to put the argument in the form of numbered premises, and conclusion. Feel free to use your own wording. You may not need to use every part of the passage in reconstructing the argument; and you may need to supply a premise, or a conclusion, that is not explicitly stated. Note that there may be may be more than one defensible interpretation. After stating the argument, briefly explain it in your own words, and comment on its cogency. Which premises are true or plausible, which false or implausible? Is the inference, as you've described it, a valid one?  
 It may be useful to consult the general philosophy resources in the related resources section, in particular Jim Pryor's helpful advice about how to read philosophy, and write a philosophy paper.
 
-Short Exercise Sample Answer ([PDF]({{< baseurl >}}/resources/short_exer_answr))
+Short Exercise Sample Answer ({{% resource_link 0a6d32ea-c2bd-bb96-7258-1262e869355b "PDF" %}})
