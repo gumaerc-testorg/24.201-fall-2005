@@ -5,6 +5,7 @@ file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/7bb5ccf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 14_refutations.pdf
 uid: 7bb5ccfa-c859-7512-5b9b-61229fa83d03
 ---
 Summary of topics covered in class.
-

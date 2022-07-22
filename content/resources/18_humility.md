@@ -5,6 +5,7 @@ file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/793eb93
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 18_humility.pdf
 uid: 793eb93a-0690-aeb4-3755-29bea7568799
 ---
 Summary of topics covered in class.
-

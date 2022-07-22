@@ -5,6 +5,7 @@ file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/9dd2d11
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 12_phenomena.pdf
 uid: 9dd2d11b-f9e9-da1d-c3c5-3e99f8d08a83
 ---
 Summary of topics covered in class.
-

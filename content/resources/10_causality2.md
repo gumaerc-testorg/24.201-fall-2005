@@ -5,6 +5,7 @@ file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/89d7a4b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 10_causality2.pdf
 uid: 89d7a4bb-1266-1279-2fa9-4a43309b1246
 ---
 Summary of topics covered in class.
-

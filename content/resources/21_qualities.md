@@ -5,6 +5,7 @@ file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/5f7d765
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 21_qualities.pdf
 uid: 5f7d765e-6621-0b12-bd48-31f56fe7c6d3
 ---
 Summary of topics covered in class.
-

@@ -7,6 +7,7 @@ file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/e795da2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 9_phen_and_noumn.pdf
 uid: e795da23-ecec-5f41-686f-fe6edbc3730d
 ---
 This resource discusses about Kant?s distinction, ?Noumenon? in a negative vs. a positive sense, two worlds vs. one world, an old problem for Kant?s distinction and Allison?s deflationary proposal.
-
