@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resource discusses about response to Strawson?s objection and The
   third analogy: community.'
-file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/60c0d3732caf97057afc6a0de400cb15_8_causality_ii.pdf
+file: /ol-ocw-studio-app/courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/60c0d3732caf97057afc6a0de400cb15_8_causality_ii.pdf
+file_size: 13481
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

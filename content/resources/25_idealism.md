@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Summary of topics covered in class.
-file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/a3d8faca3d35b136bae84724debe18e4_25_idealism.pdf
+file: /ol-ocw-studio-app/courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/a3d8faca3d35b136bae84724debe18e4_25_idealism.pdf
+file_size: 22831
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

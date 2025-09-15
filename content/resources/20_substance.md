@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Summary of topics covered in class.
-file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/b66e92ed22586069e6309a7624e5aea8_20_substance.pdf
+file: /ol-ocw-studio-app/courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/b66e92ed22586069e6309a7624e5aea8_20_substance.pdf
+file_size: 21935
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

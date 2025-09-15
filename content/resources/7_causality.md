@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource discusses about background on causality, reminder about
   the copernican project, the second analogy and the third analogy.
-file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/5a84f1b10cdc97261bc76a8feb601628_7_causality.pdf
+file: /ol-ocw-studio-app/courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/5a84f1b10cdc97261bc76a8feb601628_7_causality.pdf
+file_size: 16572
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

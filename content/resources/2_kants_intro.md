@@ -3,7 +3,8 @@ content_type: resource
 description: 'This resource discusses about Kant?s introduction to the critique of
   pure reason which includes reminder: some distinctions, reminder: the humean problem
   and Kant?s response to Hume.'
-file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/558da6acce4714ae66c00467035b2e80_2_kants_intro.pdf
+file: /ol-ocw-studio-app/courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/558da6acce4714ae66c00467035b2e80_2_kants_intro.pdf
+file_size: 18805
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

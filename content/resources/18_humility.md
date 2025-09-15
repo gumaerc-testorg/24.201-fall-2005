@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Summary of topics covered in class.
-file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/793eb93a0690aeb4375529bea7568799_18_humility.pdf
+file: /ol-ocw-studio-app/courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/793eb93a0690aeb4375529bea7568799_18_humility.pdf
+file_size: 33064
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

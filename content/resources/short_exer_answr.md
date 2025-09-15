@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains a short exercise on space.
-file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/0a6d32eac2bdbb9672581262e869355b_short_exer_answr.pdf
+file: /ol-ocw-studio-app/courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/0a6d32eac2bdbb9672581262e869355b_short_exer_answr.pdf
+file_size: 29704
 file_type: application/pdf
 learning_resource_types:
 - Assignments

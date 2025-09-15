@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Summary of topics covered in class.
-file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/89d7a4bb126612792fa94a43309b1246_10_causality2.pdf
+file: /ol-ocw-studio-app/courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/89d7a4bb126612792fa94a43309b1246_10_causality2.pdf
+file_size: 14119
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,7 +3,8 @@ content_type: resource
 description: This resource discusses about a change of focus, the idea of a deduction
   of the categories, the three fold synthesis in the understanding, the object of
   representations, objectivity, and unity of consciousness.
-file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/d282fc6fbcb97412764c8ad1bfb8b6e4_5_trans_deduct.pdf
+file: /ol-ocw-studio-app/courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/d282fc6fbcb97412764c8ad1bfb8b6e4_5_trans_deduct.pdf
+file_size: 15583
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

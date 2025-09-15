@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/b743ff7e40bd04028f3be974b7d9f219_lec_notes_table.pdf
+file: /ol-ocw-studio-app/courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/b743ff7e40bd04028f3be974b7d9f219_lec_notes_table.pdf
+file_size: 20755
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

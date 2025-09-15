@@ -3,7 +3,8 @@ content_type: resource
 description: 'This resource discusses about primary and secondary qualities which
   further includes questions on: are the qualities of phenomena primary or secondary,
   what are Kant?s ?primary? qualities?'
-file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/6526ac4732529dd01f327a5e8df32dc9_14_prnsecquainka.pdf
+file: /ol-ocw-studio-app/courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/6526ac4732529dd01f327a5e8df32dc9_14_prnsecquainka.pdf
+file_size: 17048
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

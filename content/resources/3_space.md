@@ -3,7 +3,8 @@ content_type: resource
 description: This resource discusses about space including the ?transcendental aesthetic',
   the distinction between intuition/sensibility and understanding, the distinction
   between intuitions and concepts and space as the form of intuition.
-file: /courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/7e9bba2d38f8e6989bd50e6857138d6d_3_space.pdf
+file: /ol-ocw-studio-app/courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/7e9bba2d38f8e6989bd50e6857138d6d_3_space.pdf
+file_size: 18894
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
