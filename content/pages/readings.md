@@ -293,7 +293,7 @@ The Development of Kantian Humility
 {{< tdopen >}}
 Kant. _Critique_.  The Amphiboly of Concepts of Reflection, A265/B321-A268/B324 and A277/B233-A278-B334. First Analogy, A182/B224-A189/B232.  
   
-Leibniz, Gottfried Wilhelm. [_The Monadology_](https://ebooks.adelaide.edu.au/l/leibniz/gottfried/l525m/)  (excerpts).  
+Leibniz, Gottfried Wilhelm. {{% resource_link "f255b5cd-62a0-4487-a0d1-de71b6d9b51c" "_The Monadology_" %}}  (excerpts).  
   
 Kant. _New Exposition on the First Principles of Metaphysical Knowledge_ (excerpt).  
   
@@ -429,13 +429,13 @@ Berkson, W. _Fields of Force_. New York, NY: Routledge and Kegan Paul, 1974.
 
 Blackburn, Simon. "Filling In Space." _Analysis_ 50 (1990): 62-5. Reprinted in _Essays in Quasi-realism_. New York, NY: Oxford University Press, 1993.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/theory-natural-philosophy) Boscovich, R. J. [_A Theory of Natural Philosophy_](https://mitpress.mit.edu/books/theory-natural-philosophy) (1763). Translated by J. M. Child. Cambridge, MA: MIT Press, 1966. ISBN: 0262520036.
+{{% resource_link "980e5eaf-2297-49b3-b9da-4ffdf7045dd9" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Boscovich, R. J. {{% resource_link "980e5eaf-2297-49b3-b9da-4ffdf7045dd9" "_A Theory of Natural Philosophy_" %}} (1763). Translated by J. M. Child. Cambridge, MA: MIT Press, 1966. ISBN: 0262520036.
 
 Brittan, Gordon. _Kant's Theory of Science_. Princeton, NJ: Princeton University Press, 1978.
 
 Buroker, Jill Vance. _Space and Incongruence_. Dordrecht, Netherlands: Reidel, 1981.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/annus-mirabilis-sir-isaac-newton) Costabel, Pierre. "Newton's and Leibniz' Dynamics." In [_The Annus Mirabilis of Sir Isaac Newton_](https://mitpress.mit.edu/books/annus-mirabilis-sir-isaac-newton). Edited by R. Palter. Cambridge, MA: MIT Press, 1970. ISBN: 0262160358.
+{{% resource_link "c66c018e-b7e8-4ad5-85c5-446c5075d6b8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Costabel, Pierre. "Newton's and Leibniz' Dynamics." In {{% resource_link "c66c018e-b7e8-4ad5-85c5-446c5075d6b8" "_The Annus Mirabilis of Sir Isaac Newton_" %}}. Edited by R. Palter. Cambridge, MA: MIT Press, 1970. ISBN: 0262160358.
 
 Dryer, D. P. _Kant's Solution for Verification in Metaphysics_. London, UK: George Allen and Unwin, 1966.
 
